@@ -35,7 +35,7 @@ The dataset used contains the following columns:
 
 Here’s a snapshot of the dashboard created in Tableau Public:
 
-![COVID-19 Tableau Dashboard](Screenshot%2025-04-14%022356.png)
+![COVID-19 Tableau Dashboard](dashboard.png)
 
 ---
 
